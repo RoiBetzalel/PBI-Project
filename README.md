@@ -91,21 +91,6 @@ The dashboard focuses on transforming raw gameplay data into meaningful insights
 
 ---
 
-## Preview
-
-Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/
-├── overview.png
-├── performance.png
-└── bastion-analysis.png
-```
-
----
-
 ## Author
 
 **Roi Bjin**
