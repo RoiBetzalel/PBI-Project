@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project analyzes the last **1,000 Minecraft speedruns** completed by **Couriway** using **Power BI**.
+This project analyzes a **1,000 Minecraft speedruns** completed by **Couriway** using **Power BI**.
 
 The dashboard explores different aspects of each run, including progression, performance, deaths, routing decisions, bastion types, and completion statistics. The goal is to demonstrate data visualization, data modeling, and dashboard design using Power BI.
 
